@@ -1,0 +1,7 @@
+# Python 3.10 (MediaPipe has no wheels for very new Python versions)
+mediapipe
+opencv-python
+numpy
+fastapi
+uvicorn[standard]
+tensorflow==2.19.*

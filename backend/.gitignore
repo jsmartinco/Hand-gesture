@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+# Landmarks extracted from the videos (re-create with extract_landmarks.py)
+data/
+# File list written by extract_landmarks.py --count
+signs_available.csv

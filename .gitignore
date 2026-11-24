@@ -1,0 +1,19 @@
+# Auslan video dataset: large and not ours to publish. Never commit it.
+rgb/
+*.mp4
+
+# Python
+.venv/
+__pycache__/
+
+# Node / Vite (hand-gesture-app/.gitignore has the rest)
+node_modules/
+dist/
+.env.local
+*.local
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
